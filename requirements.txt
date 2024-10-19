@@ -1,2 +1,5 @@
+streamlit==1.39.0
+python-dotenv==1.0.1
 crewai==0.70.1
 crewai-tools==0.12.1
+streamlit-diff-viewer==0.0.2
